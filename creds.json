@@ -1,0 +1,8 @@
+{
+    "finvasia": {
+        "user": "you user id",
+        "password": "your password",
+        "totp_secret": "your totp_secret",
+        "api_key": "your api_key"
+    }
+}
